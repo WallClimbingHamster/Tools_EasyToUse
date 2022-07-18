@@ -1,5 +1,5 @@
 # Program
-save my thought
+save my thoughts.
 
 Reflection Loss calculation.
 
