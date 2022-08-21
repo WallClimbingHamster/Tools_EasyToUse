@@ -1,7 +1,5 @@
 # Program
-save my thoughts.
-
-Reflection Loss calculation.
+file of .docx be converted to file of .PDF
 
 solve .csv files and create .xlsx files.
 
