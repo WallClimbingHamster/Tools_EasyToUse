@@ -1,6 +1,6 @@
 # Program
-file of .docx be converted to file of .PDF
+Convert .docx files to .PDF format.
 
-solve .csv files and create .xlsx files.
+Process .csv files and generate .xlsx files.
 
-quickly to see pictures of RL.
+Quickly view RL (Reflection Loss) images.
